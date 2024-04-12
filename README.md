@@ -14,7 +14,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Available Scripts](#available-scripts)
   - [Learn More](#learn-more)
 - [Deployment](#deployment)
-- [References]
+- [References](#references)
 
 
 ## Overview
